@@ -1,4 +1,4 @@
-# Laravel DataTables Mongodb Plugin
+# Laravel DataTables Mongodb Plugin FORK from https://github.com/pimlie/laravel-datatables-mongodb
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/pimlie/laravel-datatables-mongodb.svg)](https://packagist.org/packages/pimlie/laravel-datatables-mongodb)
 [![Total Downloads](https://img.shields.io/packagist/dt/pimlie/laravel-datatables-mongodb.svg)](https://packagist.org/packages/pimlie/laravel-datatables-mongodb)
