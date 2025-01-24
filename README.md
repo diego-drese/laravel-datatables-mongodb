@@ -87,8 +87,8 @@ return (new MongodbDataTable(App\User::where('id', '>', 1))->toJson()
 - Add the `MongodbDataTableTrait` trait to your model.
 
 ```php
-use Jenssegers\Mongodb\Eloquent\Model;
-use Pimlie\DataTables\Traits\MongodbDataTableTrait;
+use MongoDB\Laravel\Eloquent\Model;
+use DiegoDrese\DataTables\Traits\MongodbDataTableTrait;
 
 class User extends Model
 {
