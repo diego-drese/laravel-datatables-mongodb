@@ -1,6 +1,6 @@
 <?php
 
-namespace Pimlie\DataTables;
+namespace DiegoDrese\DataTables;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Str;
