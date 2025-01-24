@@ -1,9 +1,9 @@
 <?php
 
-namespace Pimlie\DataTables\Tests\Models;
+namespace DiegoDrese\DataTables\Tests\Models;
 
-use Jenssegers\Mongodb\Eloquent\Model as Eloquent;
-use Pimlie\DataTables\Traits\MongodbDataTableTrait;
+use MongoDB\Laravel\Eloquent\Model as Eloquent;
+use DiegoDrese\DataTables\Traits\MongodbDataTableTrait;
 
 class Role extends Eloquent
 {
