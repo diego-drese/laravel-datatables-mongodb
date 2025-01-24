@@ -40,7 +40,7 @@
     },
     "minimum-stability": "stable",
     "require-dev": {
-        "Orchestra/Testbench": "^3.5",
+        "orchestra/testbench": "^3.5",
         "squizlabs/php_codesniffer": "^3.1"
     },
     "scripts": {
