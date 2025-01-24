@@ -1,7 +1,7 @@
 <?php
-namespace Pimlie\DataTables\Traits;
+namespace DiegoDrese\DataTables\Traits;
 
-use Pimlie\DataTables\MongodbDataTable;
+use DiegoDrese\DataTables\MongodbDataTable;
 
 trait MongodbDataTableTrait
 {
