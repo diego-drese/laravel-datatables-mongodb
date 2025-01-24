@@ -13,7 +13,7 @@ class HybridMongodbQueryDataTable extends EloquentDataTable
      * @param mixed $source
      * @return boolean
      */
-    public static function canCreate($source)
+    public static function canCreate($source):bool
     {
         return $source instanceof EloquentBuilder;
     }
