@@ -4,11 +4,11 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/pimlie/laravel-datatables-mongodb.svg)](https://packagist.org/packages/pimlie/laravel-datatables-mongodb)
 [![License](https://img.shields.io/github/license/pimlie/laravel-datatables-mongodb.svg)](https://packagist.org/packages/pimlie/laravel-datatables-mongodb)
 
-This package is a plugin for [Laravel DataTables](https://github.com/yajra/laravel-datatables) to support Mongodb using [Laravel Mongodb](https://github.com/jenssegers/laravel-mongodb/)
+This package is a plugin for [Laravel DataTables](https://github.com/yajra/laravel-datatables) to support Mongodb using [Laravel Mongodb](https://github.com/mongodb/laravel-mongodb)
 
 ## Requirements
 - [Laravel DataTables >=11.0](https://github.com/yajra/laravel-datatables)
-- [Laravel Mongodb >= 5.1](https://github.com/jenssegers/laravel-mongodb)
+- [Laravel Mongodb >= 5.1](https://github.com/mongodb/laravel-mongodb)
 
 ## Documentation
 - [Laravel DataTables Documentation](http://yajrabox.com/docs/laravel-datatables)
